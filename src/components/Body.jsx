@@ -1,6 +1,6 @@
 import React from "react";
 import Services from "./Services";
-import FAQ from "./Faq";
+import FAQ from "./FAQ";
 import { Link } from "react-router";
 import Footer from "./Footer";
 
